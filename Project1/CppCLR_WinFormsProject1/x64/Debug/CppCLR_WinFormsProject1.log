@@ -1,0 +1,26 @@
+﻿  citizen.cpp
+  CppCLR_WinFormsProject.cpp
+  DashboardCitizen.cpp
+C:\Users\TECHNOSELLERS\Desktop\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\citizen.h(337,28): error C2039: 'DashboardCitizen': is not a member of 'CppCLR_WinFormsProject1'
+  (compiling source file '/DashboardCitizen.cpp')
+      C:\Users\TECHNOSELLERS\Desktop\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\citizen.h(8,11):
+      see declaration of 'CppCLR_WinFormsProject1'
+  
+C:\Users\TECHNOSELLERS\Desktop\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\citizen.h(337,28): error C2065: 'DashboardCitizen': undeclared identifier
+  (compiling source file '/DashboardCitizen.cpp')
+  
+C:\Users\TECHNOSELLERS\Desktop\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\citizen.h(337,46): error C2065: 'dash': undeclared identifier
+  (compiling source file '/DashboardCitizen.cpp')
+  
+C:\Users\TECHNOSELLERS\Desktop\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\citizen.h(337,84): error C2039: 'DashboardCitizen': is not a member of 'CppCLR_WinFormsProject1'
+  (compiling source file '/DashboardCitizen.cpp')
+      C:\Users\TECHNOSELLERS\Desktop\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\citizen.h(8,11):
+      see declaration of 'CppCLR_WinFormsProject1'
+  
+C:\Users\TECHNOSELLERS\Desktop\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\citizen.h(337,84): error C2061: syntax error: identifier 'DashboardCitizen'
+  (compiling source file '/DashboardCitizen.cpp')
+  
+C:\Users\TECHNOSELLERS\Desktop\CppCLR_WinFormsProject1\CppCLR_WinFormsProject1\citizen.h(338,3): error C2065: 'dash': undeclared identifier
+  (compiling source file '/DashboardCitizen.cpp')
+  
+  Generating Code...
